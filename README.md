@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Taras Reznik, a webDev from Kyiv, Ukraine.
+- 👋 Hi, I’m Taras Riznyk, a webDev from Kyiv, Ukraine.
